@@ -78,6 +78,7 @@
     {"id":{"name":"obj_lever","path":"objects/obj_lever/obj_lever.yy",},},
     {"id":{"name":"obj_manager","path":"objects/obj_manager/obj_manager.yy",},},
     {"id":{"name":"obj_menu_manager","path":"objects/obj_menu_manager/obj_menu_manager.yy",},},
+    {"id":{"name":"obj_next_level","path":"objects/obj_next_level/obj_next_level.yy",},},
     {"id":{"name":"obj_pillar_fallen","path":"objects/obj_pillar_fallen/obj_pillar_fallen.yy",},},
     {"id":{"name":"obj_pillar_half","path":"objects/obj_pillar_half/obj_pillar_half.yy",},},
     {"id":{"name":"obj_pillar_whole","path":"objects/obj_pillar_whole/obj_pillar_whole.yy",},},

@@ -97,6 +97,7 @@
     {"id":{"name":"rm_level_1","path":"rooms/rm_level_1/rm_level_1.yy",},},
     {"id":{"name":"rm_level_2","path":"rooms/rm_level_2/rm_level_2.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
+    {"id":{"name":"seq_baddie_defeat","path":"sequences/seq_baddie_defeat/seq_baddie_defeat.yy",},},
     {"id":{"name":"seq_menu","path":"sequences/seq_menu/seq_menu.yy",},},
     {"id":{"name":"apollo_detected","path":"sounds/apollo_detected/apollo_detected.yy",},},
     {"id":{"name":"apollo_intro","path":"sounds/apollo_intro/apollo_intro.yy",},},

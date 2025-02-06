@@ -93,6 +93,7 @@
     {"id":{"name":"path_enemy_2","path":"paths/path_enemy_2/path_enemy_2.yy",},},
     {"id":{"name":"path_enemy_3","path":"paths/path_enemy_3/path_enemy_3.yy",},},
     {"id":{"name":"path_enemy_4","path":"paths/path_enemy_4/path_enemy_4.yy",},},
+    {"id":{"name":"Path6","path":"paths/Path6/Path6.yy",},},
     {"id":{"name":"rm_level_1","path":"rooms/rm_level_1/rm_level_1.yy",},},
     {"id":{"name":"rm_level_2","path":"rooms/rm_level_2/rm_level_2.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},

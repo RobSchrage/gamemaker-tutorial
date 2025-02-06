@@ -1,3 +1,14 @@
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 3D8C84AE
+/// @DnDArgument : "var" "locked"
+/// @DnDArgument : "value" "true"
+if(locked == true){	/// @DnDAction : YoYo Games.Common.Exit_Event
+	/// @DnDVersion : 1
+	/// @DnDHash : 17FA8D56
+	/// @DnDParent : 3D8C84AE
+	exit;}
+
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Pressed
 /// @DnDVersion : 1
 /// @DnDHash : 50F9E158

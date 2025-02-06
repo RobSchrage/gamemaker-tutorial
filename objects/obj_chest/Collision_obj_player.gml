@@ -15,10 +15,10 @@ var l50F9E158_0;l50F9E158_0 = keyboard_check_pressed(ord("E"));if (l50F9E158_0
 	/// @DnDVersion : 1
 	/// @DnDHash : 148AF81A
 	/// @DnDParent : 50F9E158
-	/// @DnDArgument : "expr" "20"
+	/// @DnDArgument : "expr" "coins_to_give"
 	/// @DnDArgument : "expr_relative" "1"
 	/// @DnDArgument : "var" "obj_player.coins"
-	obj_player.coins += 20;
+	obj_player.coins += coins_to_give;
 
 	/// @DnDAction : YoYo Games.Instances.Change_Instance
 	/// @DnDVersion : 1

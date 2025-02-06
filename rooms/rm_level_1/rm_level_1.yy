@@ -264,6 +264,8 @@
     {"name":"chest1","path":"rooms/rm_level_1/rm_level_1.yy",},
     {"name":"inst_58C02A9C","path":"rooms/rm_level_1/rm_level_1.yy",},
     {"name":"inst_10B9DF15","path":"rooms/rm_level_1/rm_level_1.yy",},
+    {"name":"gate1","path":"rooms/rm_level_1/rm_level_1.yy",},
+    {"name":"lever1","path":"rooms/rm_level_1/rm_level_1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -641,6 +643,10 @@
         {"$GMRInstance":"v1","%Name":"inst_10B9DF15","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_10B9DF15","objectId":{"name":"obj_key","path":"objects/obj_key/obj_key.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_key","path":"objects/obj_key/obj_key.yy",},"propertyId":{"name":"chest_to_open","path":"objects/obj_key/obj_key.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"chest1",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":592.5,"y":400.0,},
+        {"$GMRInstance":"v1","%Name":"gate1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"gate1","objectId":{"name":"obj_gate","path":"objects/obj_gate/obj_gate.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":670.0,"y":516.0,},
+        {"$GMRInstance":"v1","%Name":"lever1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"lever1","objectId":{"name":"obj_lever","path":"objects/obj_lever/obj_lever.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_lever","path":"objects/obj_lever/obj_lever.yy",},"propertyId":{"name":"gate_to_open","path":"objects/obj_lever/obj_lever.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"gate1",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":475.0,"y":494.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRLayer":"","%Name":"Visuals_Below_Instances","depth":-11400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[
         {"$GMRAssetLayer":"","%Name":"Visual_Assets","assets":[

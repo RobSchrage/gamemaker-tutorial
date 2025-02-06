@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":92.184,
+  "duration":221.952,
   "name":"apollo_detected",
   "parent":{
     "name":"Music",

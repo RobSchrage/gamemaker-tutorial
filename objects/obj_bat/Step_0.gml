@@ -26,3 +26,21 @@ var l27866959_0 = collision_rectangle(x + -200, y + -200, x + 200, y + 200, obj_
 	/// @DnDArgument : "x" "obj_player.x"
 	/// @DnDArgument : "y" "obj_player.y"
 	direction = point_direction(x, y, obj_player.x, obj_player.y);}
+
+/// @DnDAction : YoYo Games.Common.Else
+/// @DnDVersion : 1
+/// @DnDHash : 0420AB14
+else{	/// @DnDAction : YoYo Games.Movement.Set_Speed
+	/// @DnDVersion : 1
+	/// @DnDHash : 3365438C
+	/// @DnDParent : 0420AB14
+	/// @DnDArgument : "speed" "2"
+	speed = 2;
+
+	/// @DnDAction : YoYo Games.Movement.Set_Direction_Free
+	/// @DnDVersion : 1
+	/// @DnDHash : 06B015C6
+	/// @DnDParent : 0420AB14
+	/// @DnDArgument : "direction" "2"
+	/// @DnDArgument : "direction_relative" "1"
+	direction += 2;}

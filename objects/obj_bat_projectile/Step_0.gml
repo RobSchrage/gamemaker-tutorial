@@ -20,8 +20,10 @@ var relative_y = (random_range(-5, 5));
 /// @DnDVersion : 1
 /// @DnDHash : 424F486F
 /// @DnDArgument : "x" "relative_x"
+/// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y" "relative_y"
+/// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "type" "7"
 /// @DnDArgument : "where" "1"
 /// @DnDArgument : "color" "$FF00FF00"
-effect_create_above(7, relative_x, relative_y, 0, $FF00FF00 & $ffffff);
+effect_create_above(7, x + relative_x, y + relative_y, 0, $FF00FF00 & $ffffff);

@@ -12,3 +12,14 @@ move_speed = 4;
 /// @DnDComment : Initialize coins value at 0
 /// @DnDArgument : "var" "coins"
 coins = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 559799DF
+/// @DnDInput : 2
+/// @DnDArgument : "expr" "4"
+/// @DnDArgument : "expr_1" "max_hearts"
+/// @DnDArgument : "var" "max_hearts"
+/// @DnDArgument : "var_1" "hearts"
+max_hearts = 4;
+hearts = max_hearts;

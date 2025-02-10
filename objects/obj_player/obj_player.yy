@@ -17,6 +17,7 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_coin_rare","path":"objects/obj_coin_rare/obj_coin_rare.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_heart_pickup","path":"objects/obj_heart_pickup/obj_heart_pickup.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_powerup_speed","path":"objects/obj_powerup_speed/obj_powerup_speed.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":1,"eventType":2,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_player",

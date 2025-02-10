@@ -31,7 +31,8 @@ if(powerup_active == false){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDHash : 7374C6D1
 	/// @DnDParent : 79821FE2
 	/// @DnDArgument : "steps" "300"
-	alarm_set(0, 300);
+	/// @DnDArgument : "alarm" "1"
+	alarm_set(1, 300);
 
 	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 	/// @DnDVersion : 1

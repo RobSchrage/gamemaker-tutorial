@@ -29,3 +29,17 @@ hearts = max_hearts;
 /// @DnDHash : 51824833
 /// @DnDArgument : "var" "input_direction"
 input_direction = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 1232CE51
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "powerup_active"
+powerup_active = false;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 3D95EC75
+/// @DnDArgument : "expr" "move_speed"
+/// @DnDArgument : "var" "default_move_speed"
+default_move_speed = move_speed;

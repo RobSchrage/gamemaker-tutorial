@@ -43,3 +43,10 @@ powerup_active = false;
 /// @DnDArgument : "expr" "move_speed"
 /// @DnDArgument : "var" "default_move_speed"
 default_move_speed = move_speed;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 2458A3E1
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "star_powerup_active"
+star_powerup_active = false;

@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"apollo_intro.mp3",
   "type":1,
-  "volume":1.0,
+  "volume":0.05,
 }
